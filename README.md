@@ -46,7 +46,7 @@ The project is divided into four major parts:
 
 Recommended environment:
 
-- Python 3.10+
+- Python 3.13.17
 - VS Code
 - Jupyter Notebook
 - Pandas
